@@ -15,7 +15,7 @@ h1 {
 .sdate {
     margin-right: 15px;
 }
-/*
+
 @media (max-width: 700px) {
     .contain {
         width: 100%;
@@ -31,7 +31,7 @@ h1 {
     body {
         margin: 0px 20px;
     }
-}*/
+}
 
 body {
     font-family: 'Poppins', sans-serif;
